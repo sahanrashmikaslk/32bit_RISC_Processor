@@ -28,7 +28,7 @@ The project aimed to design and implement a Reduced Instruction Set Computing (R
 
 2. Navigate to the `Verilog_Implementation/` directory to access the Verilog code for each module.
 
-3. Open the Verilog files in a suitable development environment (e.g., Vivado, Quartus Prime) for synthesis and simulation.
+3. Open the Verilog files in a suitable development environment (e.g., Modelslim Vivado, Quartus Prime) for synthesis and simulation.
 
 4. Explore the `Project_Report.pdf` for a comprehensive overview of the project, including design rationale, methodology, and results.
 
