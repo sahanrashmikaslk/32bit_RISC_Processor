@@ -21,6 +21,10 @@ The project aimed to design and implement a Reduced Instruction Set Computing (R
   - `Processor.v`
 - `Testing_and_Verification/`: Test bench results for each module.
 
+##  Architecture of the RISC Processor
+
+ ![Project Image](./ArchitectureOfProcessor.png)
+
 ## How to Use
 
 1. Clone the repository:
