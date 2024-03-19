@@ -1,4 +1,4 @@
-# 32-BIT RISC PROCESSOR
+# 32-Bit RISC Processor using Verilog
 
 This project presents a 32-bit RISC processor with a memory controller, completed as a 3rd-year group project for the HDL module at the University of Ruhuna, SL. The processor features a streamlined architecture for faster execution times, utilizing Verilog HDL for implementation and ModelSim for simulation.
 
